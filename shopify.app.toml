@@ -2,7 +2,7 @@
 
 client_id = "57499b94d4a8a6f0d9b7feb34df1adf5"
 name = "product-qr-generator"
-application_url = "https://broke-accomplish-gate-taking.trycloudflare.com"
+application_url = "https://object-jordan-both-aggressive.trycloudflare.com"
 embedded = true
 
 [build]
@@ -15,9 +15,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://broke-accomplish-gate-taking.trycloudflare.com/auth/callback",
-  "https://broke-accomplish-gate-taking.trycloudflare.com/auth/shopify/callback",
-  "https://broke-accomplish-gate-taking.trycloudflare.com/api/auth/callback"
+  "https://object-jordan-both-aggressive.trycloudflare.com/auth/callback",
+  "https://object-jordan-both-aggressive.trycloudflare.com/auth/shopify/callback",
+  "https://object-jordan-both-aggressive.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
